@@ -33,4 +33,4 @@ elif x > 0 and x <= 100:
 print ("\n")
 print ("The result is ", x)
     
-
+#If we assume that x has a data type of integer, I think it's better for f(x) to have a data type of float to have accurate results especially that f(x) has a mathematical constant (pi). Float data type allows the result to have fractions of a number.
